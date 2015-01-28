@@ -1,0 +1,32 @@
+{
+  "name": "Skeleton",
+  "version": "0.1b",
+  "authors": [
+    "Barry, Paul <Paul.Barry@contractor.cengage.com>",
+    "Rahhal, Ghadeer <ghadeer.rahhal@contractor.cengage.com>"
+  ],
+  "main": "src/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.14",
+    "angular-bootstrap": "~0.10.0",
+    "bootstrap-css-only": "~3.1.1",
+    "jquery": "~2.1.0",
+    "angular-resource": "~1.2.14",
+    "angular-route": "~1.2.14",
+    "angular-ui-tinymce": "~0.0.4",
+    "angular-sanitize": "~1.2.15",
+    "angular-file-upload": "~0.4.1",
+    "bootstrap": "~3.1.1"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.14"
+  }
+}
